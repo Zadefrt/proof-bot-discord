@@ -1,0 +1,242 @@
+@font-face {
+  font-family: Whitney;
+  src: url(https://whitneyfont.000webhostapp.com/whitney-book.otf), url(https://whitneyfont.000webhostapp.com/whitney-medium.otf);
+}
+
+@font-face {
+  font-family: WhitneyMed;
+  src: url(https://whitneyfont.000webhostapp.com/whitney-medium.otf);
+}
+
+@font-face {
+  font-family: WhitneySemi;
+  src: url(https://whitneyfont.000webhostapp.com/whitney-semibold.otf);
+}
+
+body {
+  background: #36393e !important;
+  color: white;
+  font-family: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.username-h_Y3Us {
+  font-family: WhitneySemi !important;
+}
+
+li {
+    list-style-type: none;
+}
+
+.markup-eYLPri {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    white-space: pre-wrap;
+    white-space: break-spaces;
+    word-wrap: break-word;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    color: hsl(210,calc(var(--saturation-factor, 1)*2.9%),86.7%);
+    font-weight: 400;
+}
+
+.cozy-VmLDNB .header-2jRmjb {
+    font-size: 1rem;
+    font-weight: 550;
+    line-height: 1.375rem;
+    display: inline;
+    vertical-align: baseline;
+    position: relative;
+    overflow: hidden;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    color: hsl(0,calc(var(--saturation-factor, 1)*0%),100%);
+    font-family: WhitneyMed,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.cozy-VmLDNB .timestamp-p1Df1m {
+    font-size: 0.75rem;
+    line-height: 1.375rem;
+    color: hsl(214,calc(var(--saturation-factor, 1)*4%),65.3%);
+    vertical-align: baseline;
+}
+
+.markup-eYLPri a {
+    color: hsl(197,calc(var(--saturation-factor, 1)*100%),47.8%);
+    word-break: break-word;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.theme-dark .tagline-3DhQWg {
+    color: hsl(216,calc(var(--saturation-factor, 1)*3.7%),73.5%);
+    font-family: WhitneyMed,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.embedHorizontal-2GF6zV {
+    background: #212325 !important;
+}
+
+.metadata-3MqUp5 {
+    color: hsl(218,calc(var(--saturation-factor, 1)*4.6%),46.9%) !important;
+    font-family: WhitneyMed,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.tagline-3DhQWg {
+    color: hsl(216,calc(var(--saturation-factor, 1)*3.7%),73.5%);
+    font-family: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.title-oJa_A6 {
+  font-family: WhitneySemi,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  font-weight: 100 !important;
+}
+
+.contents-18-Yxp {
+  font-family: WhitneyMed, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: 0;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+#v6qwkpg8bsb {
+  font-family: WhitneyMed, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+
+.cozyMessage-1DWF9U.groupStart-3Mlgv1 {
+    margin-top: 1.0625rem;
+}
+
+.wrapper-1VLyxH {
+  border-radius: 50% !important;
+}
+
+.spoilerText-27bIiA.hidden-3B-Rum {
+  background-color: hsl(216,calc(var(--saturation-factor, 1)*7.2%),13.5%);
+}
+
+.spoilerText-27bIiA {
+  background-color: hsla(0,calc(var(--saturation-factor, 1)*0%),100%,.1);
+  border-radius: 3px;
+}
+
+.container-1yy5xN {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  margin: 16px;
+}
+
+.text-md-medium-2avxhQ, .text-md-normal-304U3g {
+  font-family: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+strong {
+  font-family: WhitneyMed ,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.description-22d6ux {
+  color: hsl(216,calc(var(--saturation-factor, 1)*3.7%),73.5%);
+}
+
+.wrapper-1VLyxH {
+  position: relative;
+  border-radius: 50%;
+}
+
+.status-1CWzUb, .svg-2azL_l {
+  position: absolute;
+}
+
+.mask-1FEkla {
+  pointer-events: none;
+  position: relative;
+  display: block;
+  height: 100%;
+  width: auto;
+}
+
+foreignObject {
+  display: block;
+  overflow: hidden;
+}
+
+.avatarStack-3vfSFa {
+  display: grid;
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-b5OQ1N {
+  display: block;
+  -o-object-fit: cover;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.radius {
+  position: relative !important;
+  border-radius: 50% !important;
+  width: 80px;
+  height: 80px;
+}
+.embedFull-1HGV2S {
+  border-left: 4px solid hsl(216,calc(var(--saturation-factor, 1)*7.2%),13.5%);
+  background: hsl(223,calc(var(--saturation-factor, 1)*6.9%),19.8%);
+}
+.embedTitle-2n1pEb {
+  font-size: 1rem;
+  font-weight: 600;
+  display: inline-block;
+  grid-column: 1/1;
+}
+.embedAuthorName-pGyUPR, .embedAuthorNameLink-1NK1y6, .embedDescription-1DrJxZ, .embedFieldName-9LYSyR, .embedFieldValue-3EHtvR, .embedFooterText-2Mc7H9, .embedLink-1TLNja, .embedProvider-1GSN0c, .embedTitle-2n1pEb, .embedTitleLink-1QbYA- {
+  unicode-bidi: -moz-plaintext;
+  unicode-bidi: plaintext;
+  text-align: left;
+}
+.embedAuthor-TJIHp5, .embedDescription-1DrJxZ, .embedFields-2yHGHT, .embedFooter-3dj0UE, .embedMedia-1mdWSP, .embedProvider-1GSN0c, .embedTitle-2n1pEb {
+  min-width: 0;
+}
+
+.mentioned-Tre-dv {
+  position: relative;
+  background-color: rgba(250,166,26, 0.1);
+}
+
+.mentioned-Tre-dv:before {
+  background-color: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);
+}
+
+.wrapper-1ZcZW- {
+  border-radius: 3px;
+  padding: 0 2px;
+  font-weight: 500;
+  font-family: WhitneySemi !important;
+  unicode-bidi: -moz-plaintext;
+  unicode-bidi: plaintext;
+  color: hsl(235, calc(var(--saturation-factor, 1) * 86.2%), 88.6%);;
+  background: rgba(88,101,242, 0.3);
+  position: relative;
+}
